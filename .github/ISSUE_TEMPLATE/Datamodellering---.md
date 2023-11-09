@@ -1,15 +1,18 @@
 ---
-name: "API-bruk \U0001F41E"
-about: Lag en sak om bruk av APIet
+name: Datamoderling
+about: Lag en sak om datamodellering
 labels: Datamodellering
 
 ---
 
 ## Beskrivelse
-Gi en beskrivelse om bruken av APIet
+Gi en beskrivelse av hensikten og omfanget av datamodelleringen
 
-### Hvem bruker APIet
+### Hvem bruker Datamodellen
 Si hvem du er, hvilken virskomhet du er fra. 
+
+## Hvilke data brukes i modellen
+Gi en oppsummering av hvilken data som blir brukt
 
 ### Resultat
 Hva er resultatet
