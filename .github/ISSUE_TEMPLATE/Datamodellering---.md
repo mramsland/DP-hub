@@ -14,5 +14,8 @@ Si hvem du er, hvilken virskomhet du er fra.
 ## Hvilke data brukes i modellen
 Gi en oppsummering av hvilken data som blir brukt
 
+## Verktøy
+Hvilke verktøy har blitt brukt til sammenstillingen
+
 ### Resultat
 Hva er resultatet
