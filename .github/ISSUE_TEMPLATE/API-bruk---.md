@@ -1,5 +1,5 @@
 ---
-name: "API-bruk \U0001F41E"
+name: "API-bruk"
 about: Lag en sak om bruk av APIet
 labels: api
 
