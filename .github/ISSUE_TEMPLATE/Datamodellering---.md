@@ -1,5 +1,5 @@
 ---
-name: Datamoderling
+name: Datamodellering
 about: Lag en sak om datamodellering
 labels: Datamodellering
 
