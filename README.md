@@ -1,26 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-
-
 <h3 align = "center">Ansvarsfraskrivelse</h4>
 <mark>DFØ tar ikke noe ansvar for kode og/eller innhold på denne siden. Innholdet på denne siden er laget og skrevet for  virksomhetens egne miljøer og systemer og behov.
 </mark> 
@@ -42,11 +19,8 @@
     <a href="https://github.com/mramsland/DP-hub"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/mramsland/DP-hub">View Demo</a>
     ·
-    <a href="https://github.com/mramsland/DP-hub/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/mramsland/DP-hub/issues">Request Feature</a>
+    <a href="https://github.com/mramsland/DP-hub/issues">Diskusjon</a>
   </p>
 </div>
 
@@ -54,33 +28,17 @@
 
 <!-- Om dataplattformen -->
 ## Om Dataplattformen
+Lønnsdivisjonens dataplattformen er en replisering av masterdata fra SAP ERP til en egen database dedikert til levering og prosessering av data. Dataplattformen avlaster en rekke fagsystemer i DFØ, men gjør det også mulig for DFØ og kunder å bruke data på nye måter.  
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Gjennom APIer tilgjengeliggjør Dataplattformen rådata for kundene. Kunden kan nå få tilgang til både historisk data samt dent nyeste dataen med bare noen få sekunders forsinkelse og kan sammenstille og bruke dataen i sine egne systemer. 
 
 
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
 ## Bruk av HUBen
 Det legges opp til at hver virksomhet som bruker Dataplattformen får sin egen mapppe i repoet til å selv legge ut kode, dokumenter og annet.
+
+### Diskusjon
+Det er lagt oopp til å bruke Githubs "Issues" for å ta opp saker som kan diskuteres. 
+
 
 
 
